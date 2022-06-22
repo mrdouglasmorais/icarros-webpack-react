@@ -1,0 +1,15 @@
+{
+  "name": "icarros-webpack-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mrdouglasmorais/icarros-webpack-react",
+  "author": "douglas.morais@i-value.com.br <douglas.morais@i-value.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-react": "^7.17.12",
+    "babel-loader": "^8.2.5",
+    "clean-webpack-plugin": "^4.0.0",
+    "dotenv": "^16.0.1",
+    "webpack-merge": "^5.8.0"
+  }
+}
