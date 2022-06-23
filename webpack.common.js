@@ -16,7 +16,7 @@ const common = {
         loader: 'babel-loader',
         exclude: /node_modules/,
         options: {
-          presets: ['babel/preset-react']
+          presets: ['@babel/preset-react']
         }
       }, {
         test: /\.s(a|c)ss$/,

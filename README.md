@@ -12,6 +12,19 @@
 
 #### Módulos adicionais
 `babel-loader`
+`@babel/preset-react`
 `style-loader`
 `css-loader`
 `sass-loader`
+
+
+#### Dependências (webpack.dev.js):
+`html-webpack-plugin`
+
+#### Dependências (webpack.prod.js):
+`mini-css-extract-plugin`
+
+# Dependências do Projeto React Native
+`react`
+`react-dom`
+`react-router-dom`
